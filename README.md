@@ -1,4 +1,6 @@
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandromoh&margin-w=5" alt="leandromoh" /></a>
+ ## Currently using my spare time to develop [RecordParser](https://github.com/leandromoh/RecordParser/) project
+ 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandromoh&margin-w=5" alt="leandromoh" /></a>
 
 ![Status](https://github-readme-stats.vercel.app/api?username=leandromoh&show_icons=true&count_private=true)
 
