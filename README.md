@@ -4,4 +4,4 @@
 
 ![Status](https://github-readme-stats.vercel.app/api?username=leandromoh&show_icons=true&count_private=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoh&layout=compact)](https://github.com/leandromoh/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoh&layout=compact&langs_count=10)](https://github.com/leandromoh/github-readme-stats)
