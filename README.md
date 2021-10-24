@@ -1,6 +1,6 @@
  ## Currently developing [RecordParser](https://github.com/leandromoh/RecordParser/) project in my spare time
  
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandromoh&margin-w=5" alt="leandromoh" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=leandromoh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Status](https://github-readme-stats.vercel.app/api?username=leandromoh&show_icons=true&count_private=true)
 
